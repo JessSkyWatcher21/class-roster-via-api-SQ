@@ -1,1 +1,8 @@
 /* My Styles */
+img {
+    border: 15px solid rgb(240, 74, 74);
+    border-radius: 25px;
+    border-bottom-right-radius:80px;
+    border-top-left-radius:80px;
+    image-resolution: 200px;
+  }
