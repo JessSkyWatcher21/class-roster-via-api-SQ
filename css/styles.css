@@ -7,4 +7,5 @@
     width: 100%;
     break-inside: avoid;
     margin-top: 1rem;
+    max-height: 500px;
   }
