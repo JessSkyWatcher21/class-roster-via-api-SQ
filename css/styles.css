@@ -1,8 +1,10 @@
 /* My Styles */
 .gallery {
     border: 15px solid rgb(240, 74, 74);
-    border-radius: 25px;
-    border-bottom-right-radius:80px;
-    border-top-left-radius:80px;
-    image-resolution: 200px;
+    border-radius: 5px;
+    column-count: 3;
+    column-gap: 1rem;
+    width: 100%;
+    break-inside: avoid;
+    margin-top: 1rem;
   }
