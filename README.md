@@ -12,8 +12,8 @@ Get, Show, and Style a Class Roster via our API data
 * Apply foundations of a _headless CMS_
 
 ## API Endpoint
-Here is link to the API endpoint for the _Collection_ for roster Spring 2022 Students. 
-https://v1.nocodeapi.com/pmanikoth/webflow/wtzODovSIJsRXhZg
+<!-- Here is link to the API endpoint for the _Collection_ for roster Spring 2022 Students. 
+https://v1.nocodeapi.com/pmanikoth/webflow/wtzODovSIJsRXhZg -->
 
 ## Sources
 List your sources here
