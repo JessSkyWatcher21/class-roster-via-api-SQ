@@ -1,6 +1,6 @@
 # Class Roster via our API data
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/JessSkyWatcher21/class-roster-via-api-SpringQ"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
+
 
 ## What Is This? 
 Get, Show, and Style a Class Roster via our API data
