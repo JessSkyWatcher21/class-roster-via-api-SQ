@@ -22,7 +22,7 @@ const url = "https://v1.nocodeapi.com/pmanikoth/webflow/wtzODovSIJsRXhZg";
       // template
       const template = `
            <figure>
-           <figcaption>"${data.name}"</figcaption>
+           <figcaption>${student.name}</figcaption>
              <img src="${student.image.url}" alt="Placeholder" />
            </figure>
        `;
